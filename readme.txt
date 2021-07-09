@@ -1,2 +1,2 @@
-Git is a version control system
-Python
+Git is a distributed version control system
+Git is a free software
